@@ -83,7 +83,12 @@ Solidity official doc : https://solidity.readthedocs.io/en/v0.5.3/solidity-by-ex
 3. CodeXpert : https://www.youtube.com/channel/UCb3Rrg2t4PZ59Sna497DUZA
 4. GH : https://github.com/mattlockyer/cryptobnb
 
+a. Newbie guide to Blockchain programming https://devfolio.co/blog/newbie-guide-to-blockchain-programming/
 
+### Todo's (personal to do list)
+- [ ] Read How does Ethereum work, anyway? (It has a detailed desciption of working of etherum)
+
+https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway
 
 #### Further reference
 1. Awesome Blockchain AI : https://github.com/steven2358/awesome-blockchain-ai
