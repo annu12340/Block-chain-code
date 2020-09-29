@@ -1,4 +1,14 @@
-# Block chain programs
+# Theory
+
+### 1. ERC-20
+
+The popular cryptocurrency and blockchain system Ethereum is based on the use of tokens, which can be bought, sold, or traded. . In the Ethereum system, tokens represent a diverse range of digital assets, such as vouchers, IOUs, or even real-world, tangible objects. 
+
+https://www.toptal.com/ethereum/create-erc20-token-tutorial
+
+
+
+# Solidity programs
 
  **Notes** https://github.com/annu12340/Block-chain-code/blob/master/.NOTES.md
  
@@ -65,11 +75,12 @@ With this the bc part would be over
 5. Building an escrow https://github.com/blockgeeks/eth101/blob/master/escrow%20contract/escrow.sol _(good one)_
    - Video https://www.youtube.com/watch?v=6Mry6oAQVXU
    - Dapp university : https://www.youtube.com/watch?v=gU64BZW5lQQ
-6. Conference : https://github.com/eshon/conference
+6. Simple ticket booking platform : https://www.youtube.com/watch?v=-_Qs0XdPpw8&list=WL&index=61&ab_channel=SirajRaval
+7. Conference : https://github.com/eshon/conference
 
        (explanation : https://medium.com%2F@medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.5b1uv8cqv)
 
-7. A collection of projects : https://github.com/nurASingh/block_chain/tree/master/contracts
+8. A collection of projects : https://github.com/nurASingh/block_chain/tree/master/contracts
      
 
 Solidity official doc : https://solidity.readthedocs.io/en/v0.5.3/solidity-by-example.html
